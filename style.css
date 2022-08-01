@@ -1,0 +1,26 @@
+*{
+    margin: 10px auto;
+}
+body{
+    margin: 0;
+    padding: 10px;
+    min-width: 400px;
+}
+input
+{
+    box-sizing: border-box;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 4px;
+}
+ul{
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+li{
+    margin-top: 5px;
+}
+a{
+    color: #5f9341;
+}
